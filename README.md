@@ -1,6 +1,8 @@
 # ♻ Recursive Entries
 > Object.entries, but recursively ;)
 
+[![GitHub forks](https://img.shields.io/github/forks/EthanThatOneKid/recursive-entries.svg?style=social&label=Fork)](https://github.com/EthanThatOneKid/recursive-entries/fork)
+[![GitHub stars](https://img.shields.io/github/forks/EthanThatOneKid/recursive-entries.svg?style=social&label=Star)][github]
 [![bundle size](https://img.shields.io/bundlephobia/min/recursive-entries.svg)][npmpkg]
 [![npm downloads](https://img.shields.io/npm/dt/recursive-entries.svg)][npmpkg]
 
@@ -22,3 +24,4 @@
 * returns `undefined` if the path does not exist
 
 [npmpkg]: https://www.npmjs.com/package/recursive-entries
+[github]: https://github.com/EthanThatOneKid/recursive-entries
