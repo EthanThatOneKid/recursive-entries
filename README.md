@@ -8,7 +8,7 @@
 
 ## Usage
 `const {recursiveEntries, valueFromPath} = require('recursive-entries');`
-> Pro-tip 💡: Utilize the [test file](test.js) as an example
+> 💡 Pro-tip: Utilize the [test file](test.js) as an example
 
 ## Documentation
 ### `recursiveEntries(obj)`
