@@ -1,7 +1,7 @@
 # ♻ Recursive Entries
 
-[![bundle size](https://img.shields.io/bundlephobia/min/recursive-entries.svg)](npmpkg)
-[![npm downloads](https://img.shields.io/npm/dt/recursive-entries.svg)](npmpkg)
+[![bundle size](https://img.shields.io/bundlephobia/min/recursive-entries.svg)][npmpkg]
+[![npm downloads](https://img.shields.io/npm/dt/recursive-entries.svg)][npmpkg]
 
 ## Installation
 `npm i recursive-entries`
