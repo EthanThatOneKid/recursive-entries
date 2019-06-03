@@ -1,0 +1,26 @@
+{
+  "name": "recursive-entries",
+  "version": "1.0.0",
+  "description": "Object.entries, but recursively",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EthanThatOneKid/recursive-entries.git"
+  },
+  "keywords": [
+    "object",
+    "entries",
+    "object.entries",
+    "recursive",
+    "recursion"
+  ],
+  "author": "EthanThatOneKid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EthanThatOneKid/recursive-entries/issues"
+  },
+  "homepage": "https://github.com/EthanThatOneKid/recursive-entries#readme"
+}
