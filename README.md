@@ -7,14 +7,14 @@
 
 > Object.entries, but recursively ;)
 
-## Installation
+## ⬇ Installation
 `npm i recursive-entries`
 
-## Usage
+## 🛠 Usage
 `const {recursiveEntries, valueFromPath} = require('recursive-entries');`
 > 💡 Pro-tip: Utilize the [test file](test.js) as an example
 
-## Documentation
+## 📃 Documentation
 ### `recursiveEntries(obj)`
 * where `obj` is any vanilla object
 * returns an array of length 2 arrays, where the first item is an array of keys leading to the value and the second item is the value found at the end of the path; for example, `[ [["path", "to"], "value"], ... ]`
@@ -23,6 +23,10 @@
 * where `path` is an array of keys
 * returns value found at the end of the path
 * returns `undefined` if the path does not exist
+
+---
+
+Engineered with 💖 by [@EthanThatOneKid](https://github.com/EthanThatOneKid)
 
 [npmpkg]: https://www.npmjs.com/package/recursive-entries
 [github]: https://github.com/EthanThatOneKid/recursive-entries
