@@ -1,4 +1,5 @@
 # ♻ Recursive Entries
+> Object.entries, but recursively ;)
 
 [![bundle size](https://img.shields.io/bundlephobia/min/recursive-entries.svg)][npmpkg]
 [![npm downloads](https://img.shields.io/npm/dt/recursive-entries.svg)][npmpkg]
