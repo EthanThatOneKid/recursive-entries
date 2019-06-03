@@ -19,4 +19,4 @@
 * returns value found at the end of the path
 * returns `undefined` if the path does not exist
 
-[npmpkg]: (https://www.npmjs.com/package/recursive-entries)
+[npmpkg]: https://www.npmjs.com/package/recursive-entries
