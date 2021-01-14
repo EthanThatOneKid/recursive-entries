@@ -36,7 +36,7 @@ console.log(recursiveEntries(obj));
 
 The above code should output the following result:
 
-```ssh
+```js
 [ ["path", "to", "a"], "value" ]
 ```
   
@@ -53,7 +53,7 @@ console.log(valueFromPath(obj, path));
 
 The above code should output the following result:
 
-```sh
+```js
 "value"
 ```
 
